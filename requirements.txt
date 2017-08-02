@@ -40,5 +40,6 @@ requests==2.14.2
 selenium==3.4.3
 six==1.10.0
 splinter==0.7.5
+wheel==0.29.0
 whichcraft==0.4.1
 whitenoise==3.3.0
